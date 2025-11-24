@@ -43,7 +43,7 @@ $support_email = 'your-email@example.com';
 
 ## License
 
-GPL-3.0
+GPL-3.0 [http://www.gnu.org/licenses/gpl-3.0.html](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Author
 
