@@ -120,7 +120,7 @@ function update_notifier_send_email( $upgrader, $hook_extra ) {
 	$message_lines[] = 'This notification was sent when the update completed.';
 
 	$admin_email   = get_option( 'admin_email' );
-	$support_email = 'support@roi-online.dk';
+	$support_email = 'your-email@example.com';
 	$recipients    = array_unique( array_filter( array( $admin_email, $support_email ) ) );
 
 	if ( empty( $recipients ) ) {
