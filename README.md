@@ -21,7 +21,7 @@ The notification email includes details about what was updated and is sent to bo
 ## Installation
 
 1. Download or clone this repository
-2. Upload the `update-notifier-wordpress` folder to `/wp-content/plugins/` directory
+2. Upload the `up2date-notifier` folder to `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Configuration
@@ -30,7 +30,7 @@ The plugin sends emails to:
 - The WordPress administrator email (set in Settings → General)
 - A predefined support email address (currently hardcoded in the plugin)
 
-To change the support email address, edit `update-notifier.php` and modify line 123:
+To change the support email address, edit `up2date-notifier.php` and modify line 123:
 
 ```php
 $support_email = 'your-email@example.com';
