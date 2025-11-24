@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Update Notifier
+ * Plugin Name: Update Notifier WordPress
  * Description: Sends an email to the site administrator and a predefined address whenever WordPress core, plugins, or themes are updated.
  * Author: e-studio.dk | Michael Bay Sørensen
  * Version: 1.0.0
