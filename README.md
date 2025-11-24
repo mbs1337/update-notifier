@@ -1,4 +1,4 @@
-# Update Notifier
+# Update Notifier for WordPress
 
 [![Built By](https://img.shields.io/badge/BUILT%20BY-e--studio.dk-555555?style=flat-square)](https://e-studio.dk)
 [![Website](https://img.shields.io/badge/e--studio.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)](https://e-studio.dk)
@@ -21,7 +21,7 @@ The notification email includes details about what was updated and is sent to bo
 ## Installation
 
 1. Download or clone this repository
-2. Upload the `update-notifier` folder to `/wp-content/plugins/` directory
+2. Upload the `update-notifier-wordpress` folder to `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Configuration
