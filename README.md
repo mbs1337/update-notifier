@@ -1,7 +1,7 @@
 # Update Notifier
 
-![Built By](https://img.shields.io/badge/BUILT%20BY-mbsTECH-555555?style=flat-square)
-![Website](https://img.shields.io/badge/mbstech.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)
+![Built By](https://img.shields.io/badge/BUILT%20BY-e--studio.dk-555555?style=flat-square)
+![Website](https://img.shields.io/badge/e--studio.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-PHP-blue?style=flat-square&logo=wordpress&logoColor=white)
 ![Built In PHP](https://img.shields.io/badge/BUILT%20IN-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)
