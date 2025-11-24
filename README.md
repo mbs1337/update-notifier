@@ -1,10 +1,10 @@
 # Update Notifier
 
-![Built By](https://img.shields.io/badge/BUILT%20BY-e--studio.dk-555555?style=flat-square)
-![Website](https://img.shields.io/badge/e--studio.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-PHP-blue?style=flat-square&logo=wordpress&logoColor=white)
-![Built In PHP](https://img.shields.io/badge/BUILT%20IN-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)
+[![Built By](https://img.shields.io/badge/BUILT%20BY-e--studio.dk-555555?style=flat-square)](https://e-studio.dk)
+[![Website](https://img.shields.io/badge/e--studio.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)](https://e-studio.dk)
+[![WordPress](https://img.shields.io/badge/WordPress-PHP-blue?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Built In PHP](https://img.shields.io/badge/BUILT%20IN-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 A simple WordPress plugin that sends email notifications to the site administrator and a predefined support address whenever WordPress core, plugins, themes, or translations are updated.
 
